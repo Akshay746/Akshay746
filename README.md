@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Akshay746
-- 👀 I’m interested in ...
+- 👀 I’m interested in 
        - Web3 , Crypto , Augmented Realty , Solidity.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
        - Python , Solidity , JavaScript.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
        - Projects that willl help me biuld up my foundation.
-- 📫 How to reach me ...
+- 📫 How to reach me 
        - @0x_akshay
 
 <!---
