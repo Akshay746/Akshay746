@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
        - Web3 , Crypto , Augmented Realty , Solidity.
 - 🌱 I’m currently learning 
-       - Python , Solidity , JavaScript.
+       - Solidity
 - 💞️ I’m looking to collaborate on 
        - Projects that willl help me biuld up my foundation.
 - 📫 How to reach me 
