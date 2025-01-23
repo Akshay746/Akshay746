@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning 
        - Solidity
 - 💞️ I’m looking to collaborate on 
-       - Projects that willl help me biuld up my foundation.
+       - Projects that willl help me build up my foundation.
 - 📫 How to reach me 
        - @0x_akshay
 
