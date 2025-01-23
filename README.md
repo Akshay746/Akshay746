@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akshay746
+- 👋 Hi, I’m Akshay
 - 👀 I’m interested in 
        - Web3 , Crypto , Augmented Realty , Solidity.
 - 🌱 I’m currently learning 
